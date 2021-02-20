@@ -1,5 +1,6 @@
 # Monitor Camera Scan by Flek
 # Efficiently scans all cameras
+# paste the trigger into triggers and the alias into aliases, type spy to check every camera on a planet.
 
 <triggers>
   <trigger
